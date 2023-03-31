@@ -1,4 +1,6 @@
-![logo](https://i.postimg.cc/pdKCjX02/pic.png)
+![logo](https://i.postimg.cc/gjkcbjw4/NEW.png)
+
+
 
 
 <img align='right' src="https://media.giphy.com/media/60q1K6mTzQQ1suxNfm/giphy.gif" width="300">
