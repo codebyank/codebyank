@@ -3,13 +3,14 @@
 
 
 
-<img align='right' src="https://media.giphy.com/media/60q1K6mTzQQ1suxNfm/giphy.gif" width="300">
+
 <h1 align="center">Hi 👋, Welcome to my Github profile!</h1>
 <h3 align="center">"I am a passionate Java-SpringBoot backend developer. I love to learn new technology and solve problems, so I am always a student, constantly learning and growing."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codebyank&label=Profile%20views&color=0e75b6&style=flat" alt="codebyank" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codebyank" alt="codebyank" /></a> </p>
+<img align='right' src="https://media.giphy.com/media/60q1K6mTzQQ1suxNfm/giphy.gif" width="300">
 <h3>About Me</h3>
 - 🔭 I’m currently working on **Java & SpringBoot**
 
