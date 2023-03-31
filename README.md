@@ -1,4 +1,4 @@
-<img align='center' src="/banner:/Users/hp/Desktop/banner/banner.gif" width="300">
+<img align='center' src="c/Users/hp/Desktop/banner/banner.gif" width="300">
 
 <img align='right' src="https://media.giphy.com/media/60q1K6mTzQQ1suxNfm/giphy.gif" width="300">
 <h1 align="center">Hi 👋, Welcome to my Github profile!</h1>
