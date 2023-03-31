@@ -1,4 +1,4 @@
-![logo](https://github.com/codebyank/codebyank/blob/main/Annotation%202023-03-31%20212434.png)
+![logo](https://i.postimg.cc/pdKCjX02/pic.png)
 
 
 <img align='right' src="https://media.giphy.com/media/60q1K6mTzQQ1suxNfm/giphy.gif" width="300">
