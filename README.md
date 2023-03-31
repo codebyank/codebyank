@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ank.engg99@gmail.com**
 
-- 📄 Know about my experiences [resume](https://docs.google.com/document/d/1P-7mTVf6hhZSct4Bf5U3unzB4V46La039BB089ZSqFw/edit?usp=drive_web&authuser=0)
+- 📄 Know about my experiences [resume](https://docs.google.com/document/d/1P-7mTVf6hhZSct4Bf5U3unzB4V46La039BB089ZSqFw/edit)
 
 - ⚡ Fun fact **I love coding.**
 
