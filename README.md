@@ -1,4 +1,4 @@
-<img align='right' src="https://media.giphy.com/media/7uDtQm2jKdS0VGLg46/giphy.gif" width="230" length="500">
+<img align='right' src="https://media.giphy.com/media/7uDtQm2jKdS0VGLg46/giphy.gif" width="500" length="500">
 <h1 align="center">Hi 👋, Welcome to my Github profile!</h1>
 <h3 align="center">"I am a passionate Java-SpringBoot backend developer. I love to learn new technology and solve problems, so I am always a student, constantly learning and growing."</h3>
 
